@@ -8,5 +8,6 @@
 </head>
 <body>
 test.jsp입니다.
+jsp 파일수정입니다.
 </body>
 </html>
